@@ -5,7 +5,7 @@ author: "Joanna Knoll"
 output: html_document
 ---
 
-#What I want to Learn in INFO 201
+## What I want to Learn in INFO 201
 
 I want to learn how to use:
 
